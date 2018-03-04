@@ -1,0 +1,9 @@
+﻿  log.cpp
+  main.cpp
+main.cpp(8): error C2039: 'c': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\iostream(13): note: see declaration of 'std'
+main.cpp(8): error C2065: 'c': undeclared identifier
+main.cpp(8): error C2146: syntax error: missing ';' before identifier 'in'
+main.cpp(8): error C2065: 'in': undeclared identifier
+main.cpp(8): error C2228: left of '.get' must have class/struct/union
+  main.cpp(8): note: type is 'unknown-type'
